@@ -1,1 +1,1 @@
-## code idea from the pdf by Nick Parlante and hackerrank.com
+## code idea from the pdf by Nick Parlante, hackerrank.com and leetcode.com
